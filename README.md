@@ -1,6 +1,6 @@
 # Refractoring-Horiseon
 
-## Description
+## Description 
 
 Horiseon tasked us with adding accessability features to their site to improve the user experience for all users, and to increase search engine optomization. Using code provided, general div classes were specified with semantic tags and alt tags we added to image sources. A link was also fixed in the HTML. In the CSS different rules were consolidated to save space and make a more easy to follow stylesheet. A full list of changes is provided below.
 
