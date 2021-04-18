@@ -16,7 +16,7 @@ header {
     color: #ffffff;
 }
 
-/*changed from class .header h1 selector to just header h1 tag*/
+/*changed from class .header h1 selector to just header h1 tag*/ 
 header h1 {
     display: inline-block;
     font-size: 48px;
