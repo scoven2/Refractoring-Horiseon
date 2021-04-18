@@ -41,7 +41,7 @@ header div ul {
     list-style-type: none;
 }
 
-/*changed from class .header div ul li selector to just header div ul li tag*/
+/*changed from class .header div ul li selector to just header div ul li tag*/ 
 header div ul li {
     display: inline-block;
     margin-left: 25px;
