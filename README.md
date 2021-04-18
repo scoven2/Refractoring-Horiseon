@@ -27,7 +27,7 @@ List of changes to CSS:
 /* consolidated .search-engine-optimization, .online-reputation-management, and .social-media-marketing css rules */    
 /* consolidated .search-engine-optimization img, .online-reputation-management img, and .social-media-marketing img css rules */    
 /* consolidated .search-engine-optimization h2, .online-reputation-management h2, and .social-media-marketing h2 css rules */   
-/*removed footer class selector to just footer tag*/     
+/* removed footer class selector to just footer tag */     
 
 MIT License
 
