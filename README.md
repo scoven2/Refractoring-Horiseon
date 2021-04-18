@@ -13,7 +13,7 @@ List of changes to HTML:
 /* created alt tags for accessability */    
 /* removed footer class in place of semantic tag */     
 
-List of changes to CSS: 
+List of changes to CSS:          
 /* removed header class selector to just header tag */  
 /* changed from class .header h1 selector to just header h1 tag */  
 /* changed from class .header .seo selector to just header .seo tag */  
