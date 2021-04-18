@@ -154,7 +154,7 @@ footer {
     text-align: center;
 }
 
-/*removed footer class selector to just footer tag*/
+/*removed footer class selector to just footer tag*/ 
 footer h2 {
     font-size: 20px;
 }
