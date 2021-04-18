@@ -65,7 +65,7 @@ p {
     background-position: center;
 }
 
-/* consolidated .float-left, and .float-right css rules */
+/* consolidated .float-left, and .float-right css rules */ 
 .float-left,
 .float-right {
     float: left;
