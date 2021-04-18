@@ -4,8 +4,8 @@
 
 Horiseon tasked us with adding accessability features to their site to improve the user experience for all users, and to increase search engine optomization. Using code provided, general div classes were specified with semantic tags and alt tags we added to image sources. A link was also fixed in the HTML. In the CSS different rules were consolidated to save space and make a more easy to follow stylesheet. A full list of changes is provided below.
 
-List of changes to HTML:
-/* removed header class in place of semantic tag */ 
+List of changes to HTML:    
+/* removed header class in place of semantic tag */      
 /* added semantic tag 'main' to separate layout further */  
 /* changed div class to semantic tag 'section' */  
 /* changed div class to semantic tag 'article' */   
@@ -13,7 +13,7 @@ List of changes to HTML:
 /* created alt tags for accessability */    
 /* removed footer class in place of semantic tag */     
 
-List of changes to CSS:
+List of changes to CSS: 
 /* removed header class selector to just header tag */  
 /* changed from class .header h1 selector to just header h1 tag */  
 /* changed from class .header .seo selector to just header .seo tag */  
