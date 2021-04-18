@@ -5,21 +5,21 @@
 Horiseon tasked us with adding accessability features to their site to improve the user experience for all users, and to increase search engine optomization. Using code provided, general div classes were specified with semantic tags and alt tags we added to image sources. A link was also fixed in the HTML. In the CSS different rules were consolidated to save space and make a more easy to follow stylesheet. A full list of changes is provided below.
 
 List of changes to HTML:
-<!-- removed header class in place of semantic tag -->
-<!-- added semantic tag 'main' to separate layout further -->
-<!-- changed div class to semantic tag 'section' -->  
-<!-- changed div class to semantic tag 'article' --> 
-<!-- added article id to fix link --> 
-<!-- created alt tags for accessability --> 
-<!-- removed footer class in place of semantic tag -->
+/* removed header class in place of semantic tag */
+/* added semantic tag 'main' to separate layout further */
+/* changed div class to semantic tag 'section' */  
+/* changed div class to semantic tag 'article' */ 
+/* added article id to fix link */ 
+/* created alt tags for accessability */ 
+/* removed footer class in place of semantic tag */
 
 List of changes to CSS:
-/*removed header class selector to just header tag*/
-/*changed from class .header h1 selector to just header h1 tag*/ 
-/*changed from class .header .seo selector to just header .seo tag*/
-/*changed from class .header div selector to just header div tag*/ 
-/*changed from class .header div ul selector to just header div ul tag*/ 
-/*changed from class .header div ul li selector to just header div ul li tag*/ 
+/* removed header class selector to just header tag */
+/* changed from class .header h1 selector to just header h1 tag */ 
+/* changed from class .header .seo selector to just header .seo tag */
+/* changed from class .header div selector to just header div ta g*/ 
+/* changed from class .header div ul selector to just header div ul tag */ 
+/* changed from class .header div ul li selector to just header div ul li tag */ 
 /* consolidated .float-left, and .float-right css rules */ 
 /* consolidated .benefit-lead, .benefit-brand, and .benefit-cost css rules */ 
 /* consolidated .benefit-lead h3, .benefit-brand h3, and .benefit-cost h3 css rules */
