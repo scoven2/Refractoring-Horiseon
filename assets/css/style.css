@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*removed header class selector to just header tag*/
+/* removed header class selector to just header tag*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,18 +16,18 @@ header {
     color: #ffffff;
 }
 
-/*changed from class .header h1 selector to just header h1 tag*/ 
+/* changed from class .header h1 selector to just header h1 tag*/ 
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/*changed from class .header .seo selector to just header .seo tag*/
+/* changed from class .header .seo selector to just header .seo tag*/
 header h1 .seo {
     color: #d9dcd6;
 }
 
-/*changed from class .header div selector to just header div tag*/ 
+/* changed from class .header div selector to just header div tag*/ 
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,12 +36,12 @@ header div {
     font-size: 20px;
 }
 
-/*changed from class .header div ul selector to just header div ul tag*/ 
+/* changed from class .header div ul selector to just header div ul tag*/ 
 header div ul {
     list-style-type: none;
 }
 
-/*changed from class .header div ul li selector to just header div ul li tag*/ 
+/* changed from class .header div ul li selector to just header div ul li tag*/ 
 header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -147,6 +147,7 @@ p {
     font-size: 36px;
 }
 
+/*removed footer class selector to just footer tag*/ 
 footer {
     padding: 30px;
     clear: both;
