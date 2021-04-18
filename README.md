@@ -14,20 +14,20 @@ List of changes to HTML:
 /* removed footer class in place of semantic tag */     
 
 List of changes to CSS:
-/* removed header class selector to just header tag */
-/* changed from class .header h1 selector to just header h1 tag */ 
-/* changed from class .header .seo selector to just header .seo tag */
-/* changed from class .header div selector to just header div ta g*/ 
-/* changed from class .header div ul selector to just header div ul tag */ 
-/* changed from class .header div ul li selector to just header div ul li tag */ 
-/* consolidated .float-left, and .float-right css rules */ 
-/* consolidated .benefit-lead, .benefit-brand, and .benefit-cost css rules */ 
-/* consolidated .benefit-lead h3, .benefit-brand h3, and .benefit-cost h3 css rules */
-/* consolidated .benefit-lead img, .benefit-brand img, and .benefit-cost img css rules */
-/* consolidated .search-engine-optimization, .online-reputation-management, and .social-media-marketing css rules */
-/* consolidated .search-engine-optimization img, .online-reputation-management img, and .social-media-marketing img css rules */
-/* consolidated .search-engine-optimization h2, .online-reputation-management h2, and .social-media-marketing h2 css rules */
-/*removed footer class selector to just footer tag*/ 
+/* removed header class selector to just header tag */  
+/* changed from class .header h1 selector to just header h1 tag */  
+/* changed from class .header .seo selector to just header .seo tag */  
+/* changed from class .header div selector to just header div tag */    
+/* changed from class .header div ul selector to just header div ul tag */  
+/* changed from class .header div ul li selector to just header div ul li tag */     
+/* consolidated .float-left, and .float-right css rules */  
+/* consolidated .benefit-lead, .benefit-brand, and .benefit-cost css rules */    
+/* consolidated .benefit-lead h3, .benefit-brand h3, and .benefit-cost h3 css rules */  
+/* consolidated .benefit-lead img, .benefit-brand img, and .benefit-cost img css rules */   
+/* consolidated .search-engine-optimization, .online-reputation-management, and .social-media-marketing css rules */    
+/* consolidated .search-engine-optimization img, .online-reputation-management img, and .social-media-marketing img css rules */    
+/* consolidated .search-engine-optimization h2, .online-reputation-management h2, and .social-media-marketing h2 css rules */   
+/*removed footer class selector to just footer tag*/     
 
 MIT License
 
