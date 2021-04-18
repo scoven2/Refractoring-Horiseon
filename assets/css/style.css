@@ -27,7 +27,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/*changed from class .header div selector to just header div tag*/
+/*changed from class .header div selector to just header div tag*/ 
 header div {
     padding-top: 15px;
     margin-right: 20px;
